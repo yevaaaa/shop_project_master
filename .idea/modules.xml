@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/djangoshop-master (1).iml" filepath="$PROJECT_DIR$/.idea/djangoshop-master (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/djangoshop-master/users/templates/eshopper-free-ecommerce-html-template/.idea/eshopper-free-ecommerce-html-template.iml" filepath="$PROJECT_DIR$/djangoshop-master/users/templates/eshopper-free-ecommerce-html-template/.idea/eshopper-free-ecommerce-html-template.iml" />
+    </modules>
+  </component>
+</project>
